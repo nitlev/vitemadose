@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.003719+02:00",
+  "last_updated": "2021-04-05T20:24:19.139867+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -40,15 +40,15 @@
     },
     {
       "departement": "54",
-      "nom": "Site de vaccination du Saintois",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167649&enable_cookies_consent=1",
+      "nom": "Site de vaccination Moselle et Madon - Centre culturel Jean l'H\u00f4te",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167641&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "54",
-      "nom": "Site de vaccination Moselle et Madon - Centre culturel Jean l'H\u00f4te",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167641&enable_cookies_consent=1",
+      "nom": "Site de vaccination du Saintois",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167649&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -68,15 +68,15 @@
     },
     {
       "departement": "54",
-      "nom": "Jarville - Espace communal Foch",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163351&enable_cookies_consent=1",
+      "nom": "Nancy - H\u00f4pital Central",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-162190&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "54",
-      "nom": "Nancy - H\u00f4pital Central",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-162190&enable_cookies_consent=1",
+      "nom": "Jarville - Espace communal Foch",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163351&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -103,13 +103,6 @@
     },
     {
       "departement": "54",
-      "nom": "Centre de vaccination de Dombasle - Salle polyvalente",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173392&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "54",
       "nom": "Centre de vaccination d'Audun-le-Roman - Si\u00e8ge de la communaut\u00e9 de communes Coeur de Pays Haut",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175513&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -119,6 +112,13 @@
       "departement": "54",
       "nom": "Centre de vaccination de Villerupt - EPAHD Michel Dinet",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-176288&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Dombasle - Salle polyvalente",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173392&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -187,22 +187,8 @@
     },
     {
       "departement": "54",
-      "nom": "Saint-Max - Ch\u00e2teau du Pont de la Meurthe",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163349&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "54",
       "nom": "Villers - Centre du Placieux",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163348&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "54",
-      "nom": "Nancy - Centre Prouv\u00e9",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163350&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -215,8 +201,22 @@
     },
     {
       "departement": "54",
+      "nom": "Saint-Max - Ch\u00e2teau du Pont de la Meurthe",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163349&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "54",
       "nom": "Centre Hospitalier Mont Saint Martin (3\u00e8me \u00e9tage)",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-165708&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "54",
+      "nom": "Nancy - Centre Prouv\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163350&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

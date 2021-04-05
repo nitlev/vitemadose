@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.003243+02:00",
+  "last_updated": "2021-04-05T20:24:19.139365+02:00",
   "centres_disponibles": [
     {
       "departement": "06",
@@ -11,17 +11,17 @@
     },
     {
       "departement": "06",
-      "nom": "Centre de vaccination de la ville de Nice",
-      "url": "https://partners.doctolib.fr/centre-de-sante/nice/centre-de-vaccination-covid-hancy-reserve-aux-professionnels-de-sante?pid=practice-172330&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T11:40:00.000+02:00"
-    },
-    {
-      "departement": "06",
       "nom": "Hopital de Breil / MSP de la Roya",
       "url": "https://partners.doctolib.fr/centre-de-sante/breil-sur-roya/centre-de-vaccination-hopital-de-breil-msp-de-la-roya?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-13T16:40:00.000+02:00"
+    },
+    {
+      "departement": "06",
+      "nom": "Centre de vaccination de la ville de Nice",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nice/centre-de-vaccination-covid-hancy-reserve-aux-professionnels-de-sante?pid=practice-172330&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-28T08:45:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

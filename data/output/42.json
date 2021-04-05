@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.003594+02:00",
+  "last_updated": "2021-04-05T20:24:19.139721+02:00",
   "centres_disponibles": [
+    {
+      "departement": "42",
+      "nom": "Ville de Montbrison - salle de l'Orangerie - Jardin d'Allard",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montbrison/centre-de-vaccination-covid-ville-de-montbrison?pid=practice-166002&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-07T13:10:00.000+02:00"
+    },
     {
       "departement": "42",
       "nom": "Centre de vaccination du CH de Firminy",
@@ -11,10 +18,24 @@
     },
     {
       "departement": "42",
+      "nom": "Centre Hyg\u00e9e au CHU de Saint-Etienne",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-priest-en-jarez/chste?pid=practice-169578&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-07T17:10:00.000+02:00"
+    },
+    {
+      "departement": "42",
       "nom": "Centre hospitalier de Feurs - Maison des Sapins",
       "url": "https://partners.doctolib.fr/centre-de-sante/feurs/centre-de-vaccination-covid-ch-du-forez-site-de-feurs?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T10:45:00.000+02:00"
+      "prochain_rdv": "2021-04-12T10:25:00.000+02:00"
+    },
+    {
+      "departement": "42",
+      "nom": "antenne MSP Ambierle ",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ambierle/centre-de-vaccination-covid-19-msp-d-ambierle?pid=practice-175394&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-05-12T13:00:00.000+02:00"
     },
     {
       "departement": "42",
@@ -37,13 +58,6 @@
       "nom": "Grand centre Saint-Etienne (en cours de d\u00e9claration)",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "42",
-      "nom": "Centre Hyg\u00e9e au CHU de Saint-Etienne",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-priest-en-jarez/chste?pid=practice-169578&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -79,13 +93,6 @@
       "nom": "CD - US centre de d\u00e9tention de roanne / Centre de d\u00e9tention de Roanne",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "42",
-      "nom": "antenne MSP Ambierle ",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ambierle/centre-de-vaccination-covid-19-msp-d-ambierle?pid=practice-175394&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -134,13 +141,6 @@
       "departement": "42",
       "nom": "Pilat Rhodanien",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-pierre-de-boeuf/centre-de-vaccination-du-pilat-rhodanien?pid=practice-177622&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "42",
-      "nom": "Ville de Montbrison - salle de l'Orangerie - Jardin d'Allard",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montbrison/centre-de-vaccination-covid-ville-de-montbrison?pid=practice-166002&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.004091+02:00",
+  "last_updated": "2021-04-05T20:24:19.140269+02:00",
   "centres_disponibles": [
     {
       "departement": "93",
-      "nom": "CHI Robert Ballanger",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/ile-de-france/ars-ile-de-france-vaccination-des-professionnels-de-sante?pid=practice-162590&?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Tr\u00e8s grand centre du Stade de France",
+      "url": "https://www.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-France",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-28T09:30:00.000+02:00"
+      "prochain_rdv": "2021-04-07T15:55:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -181,9 +181,9 @@
     },
     {
       "departement": "93",
-      "nom": "Centre de vaccination - H\u00f4tel de ville",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montreuil/centre-de-vaccination-de-la-ville-de-montreuil?pid=practice-175106&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "EMV Ballanger",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -195,9 +195,9 @@
     },
     {
       "departement": "93",
-      "nom": "EMV Ballanger",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination - H\u00f4tel de ville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montreuil/centre-de-vaccination-de-la-ville-de-montreuil?pid=practice-175106&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -251,6 +251,13 @@
     },
     {
       "departement": "93",
+      "nom": "CHI Robert Ballanger",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/ile-de-france/ars-ile-de-france-vaccination-des-professionnels-de-sante?pid=practice-162590&?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "93",
       "nom": "Centre de vaccination - centre d'examen de sant\u00e9",
       "url": "https://partners.doctolib.fr/centre-medical-et-dentaire/st-denis/cpam-seine-st-denis-93-centre-de-vaccination?pid=practice-164038&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -261,13 +268,6 @@
       "nom": "Centre de vaccination Livry-Gargan",
       "url": "https://www.maiia.com/centre-de-vaccination/93190-livry-gargan/centre-de-recours-a-la-vaccination-de-livry-gargan",
       "plateforme": "Maiia",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "93",
-      "nom": "Tr\u00e8s grand centre du Stade de France",
-      "url": "https://www.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-France",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

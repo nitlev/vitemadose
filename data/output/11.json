@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.003291+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-05T20:24:19.139412+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "11",
+      "nom": "CH Castelnaudary - Jean Pierre Cassabel",
+      "url": "https://partners.doctolib.fr/hopital-public/castelnaudary/centre-de-vaccination-ch-de-castelnaudary?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-05-05T16:45:00.000+02:00"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "11",
@@ -63,13 +71,6 @@
       "departement": "11",
       "nom": "CH Narbonne",
       "url": "https://partners.doctolib.fr/hopital-public/narbonne/centre-de-vaccination-covid-19-ch-narbonne-reserve-aux-personnes-eligibles?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "11",
-      "nom": "CH Castelnaudary - Jean Pierre Cassabel",
-      "url": "https://partners.doctolib.fr/hopital-public/castelnaudary/centre-de-vaccination-ch-de-castelnaudary?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

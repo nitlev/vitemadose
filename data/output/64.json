@@ -1,13 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.003808+02:00",
+  "last_updated": "2021-04-05T20:24:19.139959+02:00",
   "centres_disponibles": [
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination COVID-19 Hendaye-Bidassoa",
+      "url": "https://partners.doctolib.fr/centre-de-sante/hendaye/centre-vaccination-covid-19-hendaye-bidassoa?pid=practice-175744&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-06T13:30:00.000+02:00"
+    },
     {
       "departement": "64",
       "nom": "Centre de vaccination de Biarritz - Casino Municipal",
       "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T14:40:00.000+02:00"
+      "prochain_rdv": "2021-04-09T15:40:00.000+02:00"
     },
     {
       "departement": "64",
@@ -32,17 +39,17 @@
     },
     {
       "departement": "64",
+      "nom": "Centre de vaccination de Morla\u00e0s",
+      "url": "https://partners.doctolib.fr/centre-de-sante/morlaas/centre-de-vaccination-de-morlaas?pid=practice-180138&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-22T14:55:00.000+02:00"
+    },
+    {
+      "departement": "64",
       "nom": "Centre de Vaccination du CH d'ORTHEZ",
       "url": "https://partners.doctolib.fr/hopital-public/orthez/centre-de-vaccination-covid-ch-orthez?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-26T19:30:00.000+02:00"
-    },
-    {
-      "departement": "64",
-      "nom": "Centre de vaccination de Morla\u00e0s",
-      "url": "https://partners.doctolib.fr/centre-de-sante/morlaas/centre-de-vaccination-de-morlaas?pid=practice-180138&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-29T15:25:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -76,16 +83,16 @@
     },
     {
       "departement": "64",
-      "nom": "Centre de vaccination d'Hasparren",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de sant\u00e9 des Luys-Arzacq",
+      "url": "https://www.maiia.com/centre-de-vaccination/64410-arzacq-arraziguet/centre-de-vaccination-des-luys",
+      "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
       "departement": "64",
-      "nom": "Centre de sant\u00e9 des Luys-Arzacq",
-      "url": "https://www.maiia.com/centre-de-vaccination/64410-arzacq-arraziguet/centre-de-vaccination-des-luys",
-      "plateforme": "Maiia",
+      "nom": "Centre de vaccination d'Hasparren",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -155,13 +162,6 @@
       "departement": "64",
       "nom": "Centre de Vaccination d'Arette",
       "url": "https://www.doctolib.fr/hopital-public/oloron-sainte-marie/chosm-reserve-aux-professionnels-de-sante",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "64",
-      "nom": "Centre de vaccination COVID-19 Hendaye-Bidassoa",
-      "url": "https://partners.doctolib.fr/centre-de-sante/hendaye/centre-vaccination-covid-19-hendaye-bidassoa?pid=practice-175744&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

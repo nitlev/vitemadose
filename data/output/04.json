@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.003223+02:00",
+  "last_updated": "2021-04-05T20:24:19.139345+02:00",
   "centres_disponibles": [
     {
       "departement": "04",
@@ -14,7 +14,7 @@
       "nom": "Salle Osco Manosco",
       "url": "https://www.maiia.com/centre-de-vaccination/04100-manosque/centre-de-vaccination---manosque",
       "plateforme": "Maiia",
-      "prochain_rdv": "2021-04-19T09:45:00.000000Z"
+      "prochain_rdv": "2021-04-19T10:15:00.000000Z"
     },
     {
       "departement": "04",

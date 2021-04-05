@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.003990+02:00",
+  "last_updated": "2021-04-05T20:24:19.140155+02:00",
   "centres_disponibles": [
     {
       "departement": "83",
       "nom": "Urgences du CH de Saint Tropez (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
       "url": "https://partners.doctolib.fr/hopital-public/gassin/centre-hospitalier-de-saint-tropez-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T16:10:00.000+02:00"
+      "prochain_rdv": "2021-04-11T08:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -55,15 +55,15 @@
     },
     {
       "departement": "83",
-      "nom": "Centre de Vaccination SAINT MAXIMIN",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-173157&enable_cookies_consent=1",
+      "nom": "HIA Sainte-Anne",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-hopital-d-instruction-des-armees-chia-sainte-anne?pid=practice-171324&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "83",
-      "nom": "HIA Sainte-Anne",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-hopital-d-instruction-des-armees-chia-sainte-anne?pid=practice-171324&enable_cookies_consent=1",
+      "nom": "Centre de Vaccination SAINT MAXIMIN",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-173157&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

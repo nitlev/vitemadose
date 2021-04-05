@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.003484+02:00",
+  "last_updated": "2021-04-05T20:24:19.139609+02:00",
   "centres_disponibles": [
     {
       "departement": "30",
       "nom": "CHU N\u00eemes",
       "url": "https://partners.doctolib.fr/hopital-public/nimes/chu-nimes-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T15:10:00.000+02:00"
+      "prochain_rdv": "2021-04-21T07:30:00.000+02:00"
     },
     {
       "departement": "30",
@@ -69,15 +69,15 @@
     },
     {
       "departement": "30",
-      "nom": "Centre MSP Le Jardin des Orantes",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/le-vigan/msp-jardin-des-orantes-vaccination-covid?pid=practice-171378&enable_cookies_consent=1",
+      "nom": "Centre MSP Petite Camargue",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/vauvert/msp-de-la-petite-camargue-vaccination-covid?pid=practice-171380&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "30",
-      "nom": "Centre MSP Petite Camargue",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/vauvert/msp-de-la-petite-camargue-vaccination-covid?pid=practice-171380&enable_cookies_consent=1",
+      "nom": "Centre MSP Le Jardin des Orantes",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/le-vigan/msp-jardin-des-orantes-vaccination-covid?pid=practice-171378&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

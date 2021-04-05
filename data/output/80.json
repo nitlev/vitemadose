@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:21:19.003964+02:00",
+  "last_updated": "2021-04-05T20:24:19.140127+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -19,15 +19,15 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - MSP Cr\u00e9cy en Ponthieu",
-      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/crecy-en-ponthieu-80150/msp-de-crecy-en-ponthieu/centre-de-vaccination-de-la-msp-de-crecy-en-ponthieu",
+      "nom": "Centre de vaccination - CHIMR EHPAD Lucien Vivien",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/montdidier-80500/centre-hospitalier-montdidier-roye-ehpad-lucien-vivien/centre-de-vaccination-du-centre-hospitalier-montdidier-roye-ehpad-lucien-vivien",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - CHIMR EHPAD Lucien Vivien",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/montdidier-80500/centre-hospitalier-montdidier-roye-ehpad-lucien-vivien/centre-de-vaccination-du-centre-hospitalier-montdidier-roye-ehpad-lucien-vivien",
+      "nom": "Centre de vaccination - MSP Cr\u00e9cy en Ponthieu",
+      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/crecy-en-ponthieu-80150/msp-de-crecy-en-ponthieu/centre-de-vaccination-de-la-msp-de-crecy-en-ponthieu",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },
@@ -96,6 +96,13 @@
     },
     {
       "departement": "80",
+      "nom": "Centre de vaccination- CHU Amiens",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/amiens-80000/chu-amiens-picardie-site-nord?category=-1&cabinet=16656&specialty=496",
+      "plateforme": "Keldoc",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "80",
       "nom": "Centre de vaccination - Communaut\u00e9 de commune VIMEU Baie de la somme ( Salle Edith Piaf)",
       "url": "https://partners.doctolib.fr/centre-de-sante/friville-escarbotin/centre-de-vaccination-covid-vimeu-baie-de-somme?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -106,13 +113,6 @@
       "nom": "Centre de vaccination - CH P\u00c9RONNE",
       "url": "https://partners.doctolib.fr/hopital-public/peronne/ch-de-peronne?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "80",
-      "nom": "Centre de vaccination- CHU Amiens",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/amiens-80000/chu-amiens-picardie-site-nord?category=-1&cabinet=16656&specialty=496",
-      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
