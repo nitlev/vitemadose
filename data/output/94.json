@@ -1,14 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.812316+02:00",
+  "last_updated": "2021-04-05T20:21:19.004100+02:00",
   "centres_disponibles": [
-    {
-      "departement": "94",
-      "nom": "BONNEUIL SUR MARNE",
-      "url": "https://www.maiia.com/centre-de-vaccination/94380-bonneuil-sur-marne/-centre-de-vaccination---espace-louise-voelckel",
-      "plateforme": "Maiia",
-      "prochain_rdv": "2021-04-06T13:20:00.000000Z"
-    },
     {
       "departement": "94",
       "nom": "CH INTERCOMMUNAL DE VILLENEUVE SAINT GEORGE",
@@ -18,10 +11,17 @@
     },
     {
       "departement": "94",
+      "nom": "BONNEUIL SUR MARNE",
+      "url": "https://www.maiia.com/centre-de-vaccination/94380-bonneuil-sur-marne/-centre-de-vaccination---espace-louise-voelckel",
+      "plateforme": "Maiia",
+      "prochain_rdv": "2021-04-06T15:00:00.000000Z"
+    },
+    {
+      "departement": "94",
       "nom": "CENTRE DE VACCINATION AMBULATOIRE ALFORTVILLE",
       "url": "https://partners.doctolib.fr/centre-de-sante/alfortville/centre-de-vaccination-ambulatoire-d-alfortville-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-06T14:45:00.000+02:00"
+      "prochain_rdv": "2021-05-07T10:45:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -83,13 +83,6 @@
     },
     {
       "departement": "94",
-      "nom": "CENTRE SUCY EN BRIE",
-      "url": "https://www.maiia.com/centre-de-vaccination/94370-sucy-en-brie/centre-de-vaccination-de-sucy-en-brie",
-      "plateforme": "Maiia",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "94",
       "nom": "Equipe mobile \u2013 Conseil D\u00e9partemental",
       "url": "",
       "plateforme": "Autre",
@@ -107,6 +100,13 @@
       "nom": "Centre de Vaccination Limeil La Boite \u00e0 Clous",
       "url": "",
       "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "94",
+      "nom": "CENTRE SUCY EN BRIE",
+      "url": "https://www.maiia.com/centre-de-vaccination/94370-sucy-en-brie/centre-de-vaccination-de-sucy-en-brie",
+      "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
@@ -160,15 +160,15 @@
     },
     {
       "departement": "94",
-      "nom": "CENTRE NOGENT SUR MARNE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/nogent-sur-marne/accueil-ambulatoire-de-recours-ville-de-nogent-sur-marne-adp94?pid=practice-123104&enable_cookies_consent=1",
+      "nom": "CENTRE DE VACCINATION AMBULATOIRE DE CHAMPIGNY",
+      "url": "https://partners.doctolib.fr/centre-de-sante/champigny-sur-marne/centre-de-vaccination-ambulatoire-de-champigny?pid=practice-167416&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "94",
-      "nom": "CENTRE DE VACCINATION AMBULATOIRE DE CHAMPIGNY",
-      "url": "https://partners.doctolib.fr/centre-de-sante/champigny-sur-marne/centre-de-vaccination-ambulatoire-de-champigny?pid=practice-167416&enable_cookies_consent=1",
+      "nom": "CENTRE NOGENT SUR MARNE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nogent-sur-marne/accueil-ambulatoire-de-recours-ville-de-nogent-sur-marne-adp94?pid=practice-123104&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

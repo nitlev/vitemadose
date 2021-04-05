@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811318+02:00",
+  "last_updated": "2021-04-05T20:21:19.003253+02:00",
   "centres_disponibles": [
     {
       "departement": "07",
@@ -21,7 +21,7 @@
       "nom": "Centre de Vaccination de la CPTS sud Ard\u00e8che C\u00e9vennes ",
       "url": "https://partners.doctolib.fr/hopital-public/les-vans/relai-de-proximite-du-centre-hospitalier-des-cevennes-ardechoises?pid=practice-167899&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-22T16:45:00.000+02:00"
+      "prochain_rdv": "2021-04-23T14:50:00.000+02:00"
     },
     {
       "departement": "07",
@@ -76,16 +76,16 @@
     },
     {
       "departement": "07",
-      "nom": "CENTRE HOSPITALIER VALS D'ARDECHE - B\u00e2timent Esperanto 1er \u00e9tage",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de Vaccination Territorial et hospitalier BSAV - Gymnase Pierre Pieri",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-andeol/centre-de-vaccination-territorial-bourg-saint-andeol?pid=practice-166627&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "07",
-      "nom": "Centre de Vaccination Territorial et hospitalier BSAV - Gymnase Pierre Pieri",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-andeol/centre-de-vaccination-territorial-bourg-saint-andeol?pid=practice-166627&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "CENTRE HOSPITALIER VALS D'ARDECHE - B\u00e2timent Esperanto 1er \u00e9tage",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {

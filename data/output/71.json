@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811980+02:00",
+  "last_updated": "2021-04-05T20:21:19.003877+02:00",
   "centres_disponibles": [
     {
       "departement": "71",
@@ -42,7 +42,7 @@
       "nom": "Centre de vaccination de Cluny",
       "url": "https://partners.doctolib.fr/centre-de-sante/cluny/centre-de-vaccination-covid-19-de-cluny?pid=practice-178061&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-23T12:36:00.000+02:00"
+      "prochain_rdv": "2021-04-26T09:18:00.000+02:00"
     },
     {
       "departement": "71",
@@ -56,7 +56,7 @@
       "nom": "Centre de vaccination DIGOIN - Grande salle des f\u00eates",
       "url": "https://partners.doctolib.fr/centre-de-sante/digoin/centre-de-vaccination-de-digoin?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-05T11:06:00.000+02:00"
+      "prochain_rdv": "2021-05-05T11:12:00.000+02:00"
     },
     {
       "departement": "71",

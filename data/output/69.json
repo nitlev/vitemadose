@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811958+02:00",
+  "last_updated": "2021-04-05T20:21:19.003853+02:00",
   "centres_disponibles": [
     {
       "departement": "69",
       "nom": "Centre de vaccination de Villeurbanne- salle du CCVA",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeurbanne/centre-de-vaccination-covid-19-villeurbanne?pid=practice-173261&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-21T16:05:00.000+02:00"
+      "prochain_rdv": "2021-04-21T09:45:00.000+02:00"
     },
     {
       "departement": "69",
@@ -153,16 +153,16 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination de Beauvallon - Salle des Varennes ",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination de Beauvallon - Salle des Varennes ",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -237,6 +237,13 @@
     },
     {
       "departement": "69",
+      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "69",
       "nom": "Centre de vaccination de la communaut\u00e9 professionnelle territoriale de sant\u00e9  -  Salle Mosa\u00efque de Saint-Priest",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions-saint-priest?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -253,13 +260,6 @@
       "departement": "69",
       "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
       "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     }

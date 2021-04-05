@@ -1,20 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811794+02:00",
+  "last_updated": "2021-04-05T20:21:19.003693+02:00",
   "centres_disponibles": [
     {
       "departement": "51",
       "nom": "Centre de vaccination de Cernay-les-Reims - Salle de La Marelle",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164806&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-16T10:20:00.000+02:00"
-    },
-    {
-      "departement": "51",
-      "nom": "Centre de vaccination de Fismes - Salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164789&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-19T12:09:00.000+02:00"
+      "prochain_rdv": "2021-04-16T11:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -43,6 +36,13 @@
       "departement": "51",
       "nom": "Centre de vaccination de Suippes - Maison des association Centre culturel Jean Huguin",
       "url": "https://partners.doctolib.fr/centre-de-sante/suippes/centre-de-vaccination-de-suippes?pid=practice-176121&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination de Fismes - Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164789&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

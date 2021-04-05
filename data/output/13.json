@@ -1,13 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811422+02:00",
+  "last_updated": "2021-04-05T20:21:19.003310+02:00",
   "centres_disponibles": [
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination Gardanne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-07T19:30:00.000+02:00"
+    },
     {
       "departement": "13",
       "nom": "Centre de vaccination de la CPTS Vignes et Calanques pour les communes de La Ciotat, Ceyreste, Cassis, Roquefort la B\u00e9doule, Carnoux en Provence.",
       "url": "https://partners.doctolib.fr/centre-de-sante/la-ciotat/centre-de-vaccination-covid-paul-eluard?pid=practice-165767&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T11:30:00.000+02:00"
+      "prochain_rdv": "2021-04-08T11:15:00.000+02:00"
     },
     {
       "departement": "13",
@@ -21,21 +28,14 @@
       "nom": "Centre de vaccination de la Mairie des 15e et 16e arrondissement de Marseille",
       "url": "https://www.maiia.com/centre-de-vaccination/13015-marseille/centre-de-vaccination---mairie-15-et-16-ville-de-marseille",
       "plateforme": "Maiia",
-      "prochain_rdv": "2021-04-15T15:10:00.000000Z"
-    },
-    {
-      "departement": "13",
-      "nom": "Centre de vaccination Gardanne",
-      "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-17T16:00:00.000+02:00"
+      "prochain_rdv": "2021-04-19T12:20:00.000000Z"
     },
     {
       "departement": "13",
       "nom": "Centre de vaccination CPTS VAL DURANCE",
       "url": "https://partners.doctolib.fr/centre-de-sante/senas/centre-de-vaccination-covid-cpts-val-durance?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-30T15:24:00.000+02:00"
+      "prochain_rdv": "2021-04-21T08:07:00.000+02:00"
     },
     {
       "departement": "13",
@@ -79,13 +79,6 @@
       "nom": "Centre de vaccination de Fos-Sur-Mer",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "13",
-      "nom": "Centre de vaccination de Carry-le-Rouet",
-      "url": "https://www.maiia.com/centre-de-vaccination/13620-carry-le-rouet/centre-de-vaccination---centre-de-carry-le-rouet",
-      "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
@@ -139,6 +132,13 @@
     },
     {
       "departement": "13",
+      "nom": "Centre de vaccination de Carry-le-Rouet",
+      "url": "https://www.maiia.com/centre-de-vaccination/13620-carry-le-rouet/centre-de-vaccination---centre-de-carry-le-rouet",
+      "plateforme": "Maiia",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "13",
       "nom": "Centre vaccination CESAM 13",
       "url": "",
       "plateforme": "Autre",
@@ -167,16 +167,16 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination Durance Sud Meyrargues",
-      "url": "Doctolib",
-      "plateforme": "Autre",
+      "nom": "Centre Vaccination Arenc",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-arenc?pid=practice-176820&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "13",
-      "nom": "Centre Vaccination Arenc",
-      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-arenc?pid=practice-176820&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination Durance Sud Meyrargues",
+      "url": "Doctolib",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -223,15 +223,15 @@
     },
     {
       "departement": "13",
-      "nom": "P\u00f4le de sant\u00e9 Aubagne CD 13",
-      "url": "https://partners.doctolib.fr/centre-de-sante/aubagne/centre-de-vaccination-covid-pole-de-sante-aubagne?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre g\u00e9rontologique d\u00e9partemental",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-cgd13?pid=practice-164336?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "13",
-      "nom": "Centre g\u00e9rontologique d\u00e9partemental",
-      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-cgd13?pid=practice-164336?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "P\u00f4le de sant\u00e9 Aubagne CD 13",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aubagne/centre-de-vaccination-covid-pole-de-sante-aubagne?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -314,16 +314,16 @@
     },
     {
       "departement": "13",
-      "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
-      "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
+      "url": "Doctolib",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
-      "url": "Doctolib",
-      "plateforme": "Autre",
+      "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
+      "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

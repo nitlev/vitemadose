@@ -1,20 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811551+02:00",
+  "last_updated": "2021-04-05T20:21:19.003438+02:00",
   "centres_disponibles": [
     {
       "departement": "27",
       "nom": "Louviers : maison des sports et associations",
       "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-164880&?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-28T10:20:00.000+02:00"
-    },
-    {
-      "departement": "27",
-      "nom": "CH Verneuil",
-      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162970&?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-06T12:10:00.000+02:00"
+      "prochain_rdv": "2021-04-28T14:40:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -120,6 +113,13 @@
       "departement": "27",
       "nom": "CH Bernay",
       "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162968&?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "27",
+      "nom": "CH Verneuil",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162970&?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811560+02:00",
+  "last_updated": "2021-04-05T20:21:19.003447+02:00",
   "centres_disponibles": [
     {
       "departement": "28",
       "nom": "Centre de vaccination \"grand public\" CHARTREXPO \u2013 Chartres",
       "url": "https://partners.doctolib.fr/centre-examens-de-sante/chartres/centre-de-vaccination-covid-19-de-chartres-metropole?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-23T09:00:00.000+02:00"
+      "prochain_rdv": "2021-04-26T12:28:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

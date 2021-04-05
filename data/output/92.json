@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.812288+02:00",
+  "last_updated": "2021-04-05T20:21:19.004078+02:00",
   "centres_disponibles": [
     {
       "departement": "92",
@@ -237,15 +237,15 @@
     },
     {
       "departement": "92",
-      "nom": "Ville de la Garenne Colombes",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-garenne-colombes/centre-de-vaccination-covid-19-la-garenne-colombes?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Ville de Courbevoie",
+      "url": "https://partners.doctolib.fr/centre-de-sante/courbevoie/centre-de-vaccination-covid-19-de-courbevoie?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "92",
-      "nom": "Ville de Courbevoie",
-      "url": "https://partners.doctolib.fr/centre-de-sante/courbevoie/centre-de-vaccination-covid-19-de-courbevoie?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Ville de la Garenne Colombes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-garenne-colombes/centre-de-vaccination-covid-19-la-garenne-colombes?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

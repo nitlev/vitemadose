@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.812153+02:00",
+  "last_updated": "2021-04-05T20:21:19.003955+02:00",
   "centres_disponibles": [
     {
       "departement": "79",
       "nom": "Centre de vaccination - CPTS du Thouarsais et Val de Thouet",
       "url": "https://partners.doctolib.fr/centre-de-sante/thouars/centre-de-vaccination-cpts-du-thouarsais-et-val-de-thouet?pid=practice-174444&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T15:30:00.000+02:00"
+      "prochain_rdv": "2021-04-08T15:45:00.000+02:00"
     },
     {
       "departement": "79",
       "nom": "centre de vaccination du SDIS - Bassin de Thouars",
       "url": "https://partners.doctolib.fr/centre-de-sante/thouars/centre-de-vaccination-cpts-du-thouarsais-et-val-de-thouet?pid=practice-174444&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T15:30:00.000+02:00"
+      "prochain_rdv": "2021-04-08T15:45:00.000+02:00"
     },
     {
       "departement": "79",
       "nom": "centre de vaccination du SDIS - Bassin de Parthenay",
       "url": "https://partners.doctolib.fr/centre-de-sante/vouille/centre-de-vaccination-covid-19-sdis-79?pid=practice-179576&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T11:25:00.000+02:00"
+      "prochain_rdv": "2021-04-09T11:05:00.000+02:00"
     },
     {
       "departement": "79",

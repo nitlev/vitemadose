@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811896+02:00",
+  "last_updated": "2021-04-05T20:21:19.003791+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
       "nom": "Centre de vaccination - Ville de Calais (Forum Gambetta)",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/calais/centre-de-vaccination-covid-19-forum-gambetta?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-07T11:15:00.000+02:00"
+      "prochain_rdv": "2021-04-07T13:05:00.000+02:00"
     },
     {
       "departement": "62",

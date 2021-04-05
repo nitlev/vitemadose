@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811448+02:00",
+  "last_updated": "2021-04-05T20:21:19.003337+02:00",
   "centres_disponibles": [
     {
       "departement": "16",
       "nom": "Centre de vaccination du CH COGNAC",
       "url": "https://partners.doctolib.fr/hopital-public/cognac/centre-de-vaccination-covid-19-chi-de-cognac?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T11:10:00.000+02:00"
+      "prochain_rdv": "2021-04-13T17:05:00.000+02:00"
     },
     {
       "departement": "16",
       "nom": "Centre de vaccination de Dignac",
       "url": "https://partners.doctolib.fr/centre-de-sante/dignac/centre-de-vaccination-covid-msp-de-la-cle-d-or?pid=practice-164788&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-21T10:55:00.000+02:00"
+      "prochain_rdv": "2021-04-21T10:25:00.000+02:00"
     },
     {
       "departement": "16",

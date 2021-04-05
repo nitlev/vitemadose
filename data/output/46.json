@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811744+02:00",
+  "last_updated": "2021-04-05T20:21:19.003642+02:00",
   "centres_disponibles": [
     {
       "departement": "46",
       "nom": "Centre de vaccination - CH Saint C\u00e9r\u00e9",
       "url": "https://partners.doctolib.fr/hopital-public/saint-cere/centre-de-vaccination-covid-ch-saint-jacques-saint-cere?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-22T10:05:00.000+02:00"
+      "prochain_rdv": "2021-04-22T09:55:00.000+02:00"
     },
     {
       "departement": "46",
       "nom": "Centre de vaccination - Cahors ville (Espace Cl\u00e9ment-Marot)",
       "url": "https://partners.doctolib.fr/centre-de-sante/cahors/centre-de-vaccination-covid-19-ville-de-cahors?pid=practice-173078&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-24T18:48:00.000+02:00"
+      "prochain_rdv": "2021-04-24T17:18:00.000+02:00"
     },
     {
       "departement": "46",
       "nom": "CH Figeac",
       "url": "https://partners.doctolib.fr/hopital-public/figeac/centre-hospitalier-de-figeac-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-29T09:10:00.000+02:00"
+      "prochain_rdv": "2021-04-28T17:05:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -62,6 +62,13 @@
     },
     {
       "departement": "46",
+      "nom": "MSP CATUS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/catus/centre-de-vaccination-covid-msp-catus?pid=practice-179532&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "46",
       "nom": "MSP Lalbenque",
       "url": "",
       "plateforme": "Autre",
@@ -72,13 +79,6 @@
       "nom": "Cressesac",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "46",
-      "nom": "MSP CATUS",
-      "url": "https://partners.doctolib.fr/centre-de-sante/catus/centre-de-vaccination-covid-msp-catus?pid=practice-179532&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

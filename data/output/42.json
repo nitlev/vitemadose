@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811703+02:00",
+  "last_updated": "2021-04-05T20:21:19.003594+02:00",
   "centres_disponibles": [
     {
       "departement": "42",
@@ -76,16 +76,16 @@
     },
     {
       "departement": "42",
-      "nom": "antenne MSP Ambierle ",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ambierle/centre-de-vaccination-covid-19-msp-d-ambierle?pid=practice-175394&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "CD - US centre de d\u00e9tention de roanne / Centre de d\u00e9tention de Roanne",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "42",
-      "nom": "CD - US centre de d\u00e9tention de roanne / Centre de d\u00e9tention de Roanne",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "antenne MSP Ambierle ",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ambierle/centre-de-vaccination-covid-19-msp-d-ambierle?pid=practice-175394&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

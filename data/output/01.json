@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811209+02:00",
+  "last_updated": "2021-04-05T20:21:19.003128+02:00",
   "centres_disponibles": [
     {
       "departement": "01",
@@ -8,13 +8,6 @@
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/valserhone-1200/jean-marinet/centre-de-vaccination-de-jean-marinet",
       "plateforme": "Keldoc",
       "prochain_rdv": "2021-04-06T13:50:00.000000+0200"
-    },
-    {
-      "departement": "01",
-      "nom": "Centre de vaccination Miribel C\u00f4ti\u00e8re - Th\u00e9\u00e2tre All\u00e9gro",
-      "url": "https://partners.doctolib.fr/centre-de-sante/miribel/centre-de-vaccination-miribel-cotiere?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T16:10:00.000+02:00"
     },
     {
       "departement": "01",
@@ -35,7 +28,7 @@
       "nom": "Centre de vaccination du CH d'Oyonnax - Centre hospitalier du Haut Bugey",
       "url": "https://partners.doctolib.fr/hopital-public/oyonnax/centre-de-vaccination-du-centre-hospitalier-du-haut-bugey?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T12:30:00.000+02:00"
+      "prochain_rdv": "2021-04-20T15:35:00.000+02:00"
     },
     {
       "departement": "01",
@@ -43,6 +36,13 @@
       "url": "https://www.maiia.com/centre-de-vaccination/01500-amberieu-en-bugey/centre-de-vaccination-de-la-plaine-de-l-ain",
       "plateforme": "Maiia",
       "prochain_rdv": "2021-04-21T16:25:00.000000Z"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination Miribel C\u00f4ti\u00e8re - Th\u00e9\u00e2tre All\u00e9gro",
+      "url": "https://partners.doctolib.fr/centre-de-sante/miribel/centre-de-vaccination-miribel-cotiere?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-26T09:10:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

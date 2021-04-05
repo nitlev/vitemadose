@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811870+02:00",
+  "last_updated": "2021-04-05T20:21:19.003764+02:00",
   "centres_disponibles": [
     {
       "departement": "59",
@@ -223,6 +223,13 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - Maison m\u00e9dicale de Bavay",
+      "url": "https://www.maiia.com/centre-de-vaccination/59570-bavay/centre-de-vaccination---maison-medicale-de-bavay",
+      "plateforme": "Maiia",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "59",
       "nom": "Centre de vaccination - CH SOMAIN",
       "url": "https://partners.doctolib.fr/hopital-public/somain/centre-de-vaccination-covid-19-ch-de-somain?pid=practice-177099&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -251,13 +258,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Maison m\u00e9dicale de Bavay",
-      "url": "https://www.maiia.com/centre-de-vaccination/59570-bavay/centre-de-vaccination---maison-medicale-de-bavay",
-      "plateforme": "Maiia",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - Clinique du Cambresis",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162830&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -279,15 +279,15 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
-      "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - POLYCLINIQUE VAUBAN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162448&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - POLYCLINIQUE VAUBAN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162448&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -307,15 +307,15 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Denain, centre de sant\u00e9 (Salle Pierre Baudin)",
-      "url": "https://partners.doctolib.fr/hopital-public/denain/reserve-hospitalier-de-denain?pid=practice-164939&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - CH LE QUESNOY",
+      "url": "https://partners.doctolib.fr/hopital-public/le-quesnoy/ch-le-quesnoy?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH LE QUESNOY",
-      "url": "https://partners.doctolib.fr/hopital-public/le-quesnoy/ch-le-quesnoy?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - CH Denain, centre de sant\u00e9 (Salle Pierre Baudin)",
+      "url": "https://partners.doctolib.fr/hopital-public/denain/reserve-hospitalier-de-denain?pid=practice-164939&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -370,15 +370,15 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - POLYCLINIQUE DU PARC",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162478&enable_cookies_consent=1",
+      "nom": "MSP Paul BOULANGER",
+      "url": "https://partners.doctolib.fr/hopital-public/lille/chu-lille-vaccination-covid-19?pid=practice-164250&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "59",
-      "nom": "MSP Paul BOULANGER",
-      "url": "https://partners.doctolib.fr/hopital-public/lille/chu-lille-vaccination-covid-19?pid=practice-164250&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - POLYCLINIQUE DU PARC",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162478&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

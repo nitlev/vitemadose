@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.812198+02:00",
+  "last_updated": "2021-04-05T20:21:19.003999+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -47,16 +47,16 @@
     },
     {
       "departement": "84",
-      "nom": "CP - US le PONTET AVIGNON / Centre P\u00e9nitentiaire d'Avignon-le Pontet",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination CH Avignon",
+      "url": "https://partners.doctolib.fr/hopital-public/avignon/centre-hospitalier-d-avignon-vaccination-covid-avignon?pid=practice-162807&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "84",
-      "nom": "Centre de vaccination CH Avignon",
-      "url": "https://partners.doctolib.fr/hopital-public/avignon/centre-hospitalier-d-avignon-vaccination-covid-avignon?pid=practice-162807&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "CP - US le PONTET AVIGNON / Centre P\u00e9nitentiaire d'Avignon-le Pontet",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -89,15 +89,15 @@
     },
     {
       "departement": "84",
-      "nom": "SOS M\u00e9decins LE PONTET",
-      "url": "https://partners.doctolib.fr/centre-de-sante/le-pontet/centre-de-vaccination-covid-maison-medicale-de-la-rose-des-vents-sos-medecins?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CPTS SANTE LUB /MSP Les glycines",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pertuis/centre-de-vaccination-la-tour-d-aigues?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "84",
-      "nom": "CPTS SANTE LUB /MSP Les glycines",
-      "url": "https://partners.doctolib.fr/centre-de-sante/pertuis/centre-de-vaccination-la-tour-d-aigues?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "SOS M\u00e9decins LE PONTET",
+      "url": "https://partners.doctolib.fr/centre-de-sante/le-pontet/centre-de-vaccination-covid-maison-medicale-de-la-rose-des-vents-sos-medecins?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.812230+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "87",
-      "nom": "HIHL - SITE DE BELLAC",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?speciality_id=5494&pid=practice-162984&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T14:15:00.000+02:00"
-    }
-  ],
+  "last_updated": "2021-04-05T20:21:19.004033+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "87",
@@ -64,6 +56,13 @@
       "departement": "87",
       "nom": "CH SAINT JUNIEN",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?speciality_id=5494&pid=practice-162981&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "87",
+      "nom": "HIHL - SITE DE BELLAC",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?speciality_id=5494&pid=practice-162984&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

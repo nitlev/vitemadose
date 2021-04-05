@@ -1,13 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811309+02:00",
+  "last_updated": "2021-04-05T20:21:19.003243+02:00",
   "centres_disponibles": [
     {
       "departement": "06",
-      "nom": "MSP de Saint Vallier de Thiey",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nice/covid-19-saint-vallier-de-thiey?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de Vence - Gymnase Dandreis Vence",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nice/covid-19-vence?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T14:50:00.000+02:00"
+      "prochain_rdv": "2021-04-07T09:00:00.000+02:00"
+    },
+    {
+      "departement": "06",
+      "nom": "Centre de vaccination de la ville de Nice",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nice/centre-de-vaccination-covid-hancy-reserve-aux-professionnels-de-sante?pid=practice-172330&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-12T11:40:00.000+02:00"
     },
     {
       "departement": "06",
@@ -15,13 +22,6 @@
       "url": "https://partners.doctolib.fr/centre-de-sante/breil-sur-roya/centre-de-vaccination-hopital-de-breil-msp-de-la-roya?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-13T16:40:00.000+02:00"
-    },
-    {
-      "departement": "06",
-      "nom": "Centre de vaccination de la ville de Nice",
-      "url": "https://partners.doctolib.fr/centre-de-sante/nice/centre-de-vaccination-covid-hancy-reserve-aux-professionnels-de-sante?pid=practice-172330&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-28T08:45:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -209,6 +209,13 @@
     },
     {
       "departement": "06",
+      "nom": "MSP de Saint Vallier de Thiey",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nice/covid-19-saint-vallier-de-thiey?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "06",
       "nom": "Centre Menton Plus Sablettes",
       "url": "https://partners.doctolib.fr/maison-de-sante/menton/centre-de-vaccination-covid-menton-carf?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -225,13 +232,6 @@
       "departement": "06",
       "nom": "Jardin Albert 1er Th\u00e9atre de Verdure",
       "url": "https://partners.doctolib.fr/centre-de-sante/nice/centre-de-vaccination-theatre-de-verdure?pid=practice-164232&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "06",
-      "nom": "Centre de vaccination de Vence - Gymnase Dandreis Vence",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nice/covid-19-vence?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811695+02:00",
+  "last_updated": "2021-04-05T20:21:19.003585+02:00",
   "centres_disponibles": [
     {
       "departement": "41",
@@ -230,15 +230,15 @@
     },
     {
       "departement": "41",
-      "nom": "Centre de vaccination - la Gare des Collines - Maison France Service",
-      "url": "https://partners.doctolib.fr/maison-de-sante/mondoubleau/centre-de-vaccination-covid-la-gare-des-collines?pid=practice-168224&enable_cookies_consent=1",
+      "nom": "Centre hospitalier de Blois - Simone Veil - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/blois/ch-blois-centre-de-vaccination-covid-19-reserve-aux-professionnels-du-chb?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "41",
-      "nom": "Centre hospitalier de Blois - Simone Veil - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
-      "url": "https://partners.doctolib.fr/hopital-public/blois/ch-blois-centre-de-vaccination-covid-19-reserve-aux-professionnels-du-chb?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - la Gare des Collines - Maison France Service",
+      "url": "https://partners.doctolib.fr/maison-de-sante/mondoubleau/centre-de-vaccination-covid-la-gare-des-collines?pid=practice-168224&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

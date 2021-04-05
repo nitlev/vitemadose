@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T20:17:56.811430+02:00",
+  "last_updated": "2021-04-05T20:21:19.003319+02:00",
   "centres_disponibles": [
     {
       "departement": "14",
@@ -21,7 +21,7 @@
       "nom": "Centre de vaccination Cond\u00e9-en-Normandie",
       "url": "https://partners.doctolib.fr/centre-de-sante/conde-en-normandie/centre-de-vaccination-covid-19-ville-de-conde?pid=practice-178178&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T09:40:00.000+02:00"
+      "prochain_rdv": "2021-04-14T10:28:00.000+02:00"
     },
     {
       "departement": "14",
@@ -35,7 +35,7 @@
       "nom": "Centre de vaccination M\u00e9zidon Vall\u00e9e d'Auge",
       "url": "https://partners.doctolib.fr/centre-de-sante/mezidon-vallee-d-auge/centre-de-vaccination-covid-19-mezidon-vallee-d-auge?pid=practice-179725&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-27T16:20:00.000+02:00"
+      "prochain_rdv": "2021-04-27T14:45:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
